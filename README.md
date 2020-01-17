@@ -36,10 +36,10 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [x] The sample text should return to the default sample if the input box (type something) no longer has any input
 - [x] Font size chooser should have at least four sizes and should immediately change the sample text font size in each font card
 - [ ] Implement the 'reset' icon on the far right of the major navigation; it should reset the page as if it were reloaded *(do not actaully reload the page)*
-- [ ] On load, the page should display fonts sorted by current popularity, as returned by the Google Fonts Developer API *(see below)*; this call should be server-side
+- [x] On load, the page should display fonts sorted by current popularity, as returned by the Google Fonts Developer API *(see below)*; this call should be server-side
 - [ ] The search feature should be fully functional and display matching fonts (it's up to you if you want to do this via a 'submit' or through onchange)
 - [ ] When the search input is cleared (via reset button or manually), the fonts should automaticaly display sorted by poplarity again
-- [ ] Fonts from the Developer API should be retrieved on the back-end and sent to the client *(see below)*
+- [x] Fonts from the Developer API should be retrieved on the back-end and sent to the client *(see below)*
 - [x] StyleSheet requests from the Google Fonts API can be compiled on either the front or the back
 
 *Other*
